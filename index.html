@@ -3,8 +3,15 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="src/styles/styles.css">
+    <link rel="stylesheet" href="src/styles/outline/styles.css">
+    <link rel="stylesheet" href="src/styles/author/styles.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="src/assets/favicon_io/android-chrome-192x192.png">
+    <link rel="icon" type="image/x-icon" href="src/assets/favicon_io/android-chrome-512x512.png">
+    <link rel="icon" type="image/x-icon" href="src/assets/favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/x-icon" href="src/assets/favicon_io/favicon-16x16.png">
+    <link rel="icon" type="image/x-icon" href="src/assets/favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/x-icon" href="src/assets/favicon_io/favicon.ico">
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <title>APLAC Book Project</title>
   </head>
@@ -12,5 +19,27 @@
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
-  <script>AOS.init();</script>
+  <script>
+  AOS.init();
+  
+  window.onload = function () {
+    lax.init()
+
+    // Add a driver that we use to control our animations
+    lax.addDriver('scrollY', function () {
+      return window.scrollY
+    })
+
+    // Add animation bindings to elements
+    lax.addElements('.selector', {
+      scrollY: {
+        translateX: [
+          ["elInY", "elCenterY", "elOutY"],
+          [0, 'screenWidth/2', 'screenWidth'],
+        ]
+      }
+    })
+  }
+
+  </script>
 </html>
