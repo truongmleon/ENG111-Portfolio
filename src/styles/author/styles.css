@@ -23,6 +23,8 @@
   position: relative;
   top: 350px;
   border: 9px double #000;
+  -webkit-box-shadow: 5px 5px 5px 1px rgba(80, 80, 80, 0.1);
+          box-shadow: 5px 5px 5px 1px rgba(80, 80, 80, 0.1);
 }
 
 #about-mark {
