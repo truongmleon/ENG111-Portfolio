@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@700&family=Montserrat:ital@0;1&family=Permanent+Marker&family=Roboto+Mono&display=swap");
 *, *::before, *::after {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   scroll-behavior: smooth;
 }
 
@@ -13,12 +12,8 @@ body, html {
 
 #nav {
   z-index: 10;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: left;
-      -ms-flex-pack: left;
-          justify-content: left;
+  justify-content: left;
   list-style: none;
   font-family: "Manrope", sans-serif;
   font-size: 1.2em;
@@ -30,25 +25,17 @@ body, html {
           user-select: none;
   width: 100%;
   background-color: #fff;
-  -webkit-box-shadow: 2px 2px 5px 5px rgba(108, 108, 108, 0.1);
-          box-shadow: 2px 2px 5px 5px rgba(108, 108, 108, 0.1);
+  box-shadow: 2px 2px 5px 5px rgba(108, 108, 108, 0.1);
   position: fixed;
   top: 0;
 }
 
 .nav-btn {
-  width: calc(100% / 10);
+  width: 10%;
   text-align: center;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-transition: 0.2s;
+  justify-content: center;
+  align-items: center;
   transition: 0.2s;
   background-color: #fff;
 }
@@ -76,7 +63,7 @@ body, html {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  text-shadow: 8px 3px white;
+  text-shadow: 8px 3px rgb(255, 255, 255);
 }
 
 #book-author {
@@ -84,8 +71,6 @@ body, html {
 }
 
 #outline {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   width: 100%;
 }
@@ -110,26 +95,21 @@ body, html {
 }
 
 p {
-  font-size: .9em;
+  font-size: 0.9em;
   padding: 0;
   line-height: 1.6em;
 }
 
 .flex {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
 }
 
 #book-cover {
   width: 50%;
   position: relative;
   top: 50px;
-  -webkit-box-shadow: 0px 7px 17px 5px rgba(107, 107, 117, 0.2);
-          box-shadow: 0px 7px 17px 5px rgba(107, 107, 117, 0.2);
+  box-shadow: 0px 7px 17px 5px rgba(107, 107, 117, 0.2);
 }
 
 a {
@@ -139,5 +119,4 @@ a {
 
 a:focus {
   outline: none;
-}
-/*# sourceMappingURL=styles.css.map */
+}/*# sourceMappingURL=styles.css.map */

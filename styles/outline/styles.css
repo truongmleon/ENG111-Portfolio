@@ -1,8 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Manrope:wght@700&family=Montserrat:ital@0;1&family=Permanent+Marker&family=Roboto+Mono&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
 *, *::before, *::after {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   scroll-behavior: smooth;
 }
 
@@ -10,7 +9,6 @@ body, html {
   height: calc(100% + 101em);
   margin: 0;
   padding: 0;
-  background: -webkit-gradient(linear, left top, left bottom, from(#fff1e9), color-stop(#ffe9f9), color-stop(#fff1e9), color-stop(#f0ffe9), to(#fff1e9));
   background: linear-gradient(#fff1e9, #ffe9f9, #fff1e9, #f0ffe9, #fff1e9);
 }
 
@@ -24,12 +22,8 @@ img {
 
 #nav {
   z-index: 10;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: left;
-      -ms-flex-pack: left;
-          justify-content: left;
+  justify-content: left;
   list-style: none;
   font-family: "Manrope", sans-serif;
   font-size: 1.2em;
@@ -41,25 +35,17 @@ img {
           user-select: none;
   width: 100%;
   background-color: #fff;
-  -webkit-box-shadow: 2px 2px 5px 5px rgba(108, 108, 108, 0.1);
-          box-shadow: 2px 2px 5px 5px rgba(108, 108, 108, 0.1);
+  box-shadow: 2px 2px 5px 5px rgba(108, 108, 108, 0.1);
   position: fixed;
   top: 0;
 }
 
 .nav-btn {
-  width: calc(100% / 10);
+  width: 10%;
   text-align: center;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-transition: 0.2s;
+  justify-content: center;
+  align-items: center;
   transition: 0.2s;
   background-color: #fff;
 }
@@ -87,7 +73,7 @@ img {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  text-shadow: 8px 3px white;
+  text-shadow: 8px 3px rgb(255, 255, 255);
 }
 
 #book-author {
@@ -119,26 +105,21 @@ img {
 }
 
 p {
-  font-size: .9em;
+  font-size: 0.9em;
   padding: 0;
   line-height: 1.6em;
 }
 
 .flex {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
 }
 
 #book-cover {
   width: 50%;
   position: relative;
   top: 50px;
-  -webkit-box-shadow: 0px 7px 17px 5px rgba(107, 107, 117, 0.2);
-          box-shadow: 0px 7px 17px 5px rgba(107, 107, 117, 0.2);
+  box-shadow: 0px 7px 17px 5px rgba(107, 107, 117, 0.2);
 }
 
 a {
@@ -151,8 +132,7 @@ a:focus {
 }
 
 #bubbles div, #colorPads div, #rectangles div, #blobs div, #ticSquares div, #layers div {
-  -webkit-box-shadow: inset 5px 5px 20px 10px rgba(70, 70, 70, 0.1);
-          box-shadow: inset 5px 5px 20px 10px rgba(70, 70, 70, 0.1);
+  box-shadow: inset 5px 5px 20px 10px rgba(70, 70, 70, 0.1);
   position: absolute;
   height: 1000px;
   width: 1000px;
@@ -164,7 +144,6 @@ a:focus {
   width: 150px;
   height: 150px;
   border-radius: 400px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#b6ffd7), to(#dccbfc));
   background: linear-gradient(#b6ffd7, #dccbfc);
 }
 
@@ -174,7 +153,6 @@ a:focus {
   width: 230px;
   height: 230px;
   border-radius: 400px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#befdd3), to(#bbc9ff));
   background: linear-gradient(#befdd3, #bbc9ff);
 }
 
@@ -184,7 +162,6 @@ a:focus {
   width: 200px;
   height: 200px;
   border-radius: 400px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#d9c2ff), to(#a9b9fa));
   background: linear-gradient(#d9c2ff, #a9b9fa);
 }
 
@@ -194,7 +171,6 @@ a:focus {
   width: 180px;
   height: 180px;
   border-radius: 400px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#9caffc), to(#d1bdf9));
   background: linear-gradient(#9caffc, #d1bdf9);
 }
 
@@ -203,7 +179,6 @@ a:focus {
   width: 180px;
   height: 180px;
   border-radius: 400px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#ffbdf7), to(#cab2fa));
   background: linear-gradient(#ffbdf7, #cab2fa);
 }
 
@@ -213,7 +188,5 @@ a:focus {
   width: 250px;
   height: 250px;
   border-radius: 400px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#c5caff), to(#c0fcfd));
   background: linear-gradient(#c5caff, #c0fcfd);
-}
-/*# sourceMappingURL=styles.css.map */
+}/*# sourceMappingURL=styles.css.map */

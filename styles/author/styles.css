@@ -10,9 +10,8 @@
   padding: 5px 10px 5px 10px;
   width: 50%;
   border: double 9px #000;
-  -webkit-box-shadow: 5px 5px 10px 5px rgba(120, 120, 120, 0.1);
-          box-shadow: 5px 5px 10px 5px rgba(120, 120, 120, 0.1);
-  text-shadow: 8px 3px white;
+  box-shadow: 5px 5px 10px 5px rgba(120, 120, 120, 0.1);
+  text-shadow: 8px 3px rgb(255, 255, 255);
 }
 
 #mark1 {
@@ -23,13 +22,12 @@
   position: relative;
   top: 350px;
   border: 9px double #000;
-  -webkit-box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.1);
-          box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.1);
 }
 
 #about-mark {
   font-size: 1.4em;
-  font-family: 'Lora', serif;
+  font-family: "Lora", serif;
   width: 50%;
   position: relative;
   top: 400px;
@@ -38,8 +36,7 @@
 #quote {
   font-size: 1.5em;
   text-align: center;
-  font-family: 'Lora', serif;
+  font-family: "Lora", serif;
   position: relative;
   top: 390px;
-}
-/*# sourceMappingURL=styles.css.map */
+}/*# sourceMappingURL=styles.css.map */
