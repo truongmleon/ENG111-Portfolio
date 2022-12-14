@@ -2,7 +2,7 @@ const ContextExigence = () => {
     return (
         <div>
             <div className="flex">
-            <h2 data-aos="fade-down" id="context-header">Why did Manson write this book?</h2>
+            <h2 data-aos="fade-down" id="context-header">What was the context and exigence?</h2>
             </div>
             <article>
                 <div className="flex">
