@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Outline from './components/Outline';
 import Author from './components/Author';
 import ContextExigence from './components/ContextExigence';
+import Purpose from './components/Purpose';
 import { useState } from 'react';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
@@ -12,5 +13,6 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <Outline />
     <Author />
     <ContextExigence />
+    <Purpose />
   </React.StrictMode>
 );

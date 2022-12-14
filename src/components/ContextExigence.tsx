@@ -15,6 +15,7 @@ const ContextExigence = () => {
                     It’s thanks to the internet that Manson was able provide self-help advice from his experiences, which lead to the growth of his audience. 
                     Manson basically went from being a broke college student to making crappy blogs to then becoming a self-help influencer.
                     </p>
+                    <div id="context-exigence"></div>
                 </div>
             </article>
         </div>
