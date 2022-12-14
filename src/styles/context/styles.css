@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Manrope:wght@700&family=Montserrat:ital@0;1&family=Permanent+Marker&family=Roboto+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+#context-header {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  font-size: 2.5em;
+  position: relative;
+  top: 400px;
+  background-color: rgb(255, 251, 240);
+  padding: 5px 10px 5px 10px;
+  width: 60%;
+  border: double 9px #000;
+  box-shadow: 5px 5px 10px 5px rgba(120, 120, 120, 0.1);
+  text-shadow: 8px 3px rgb(255, 255, 255);
+}
+
+.context {
+  font-size: 1.4em;
+  font-family: "Lora", serif;
+  width: 50%;
+  position: relative;
+  top: 400px;
+}/*# sourceMappingURL=styles.css.map */
