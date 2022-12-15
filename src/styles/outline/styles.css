@@ -6,10 +6,10 @@
 }
 
 body, html {
-  height: calc(100% + 101em);
+  height: calc(100% + 201em);
   margin: 0;
   padding: 0;
-  background: linear-gradient(#fff1e9, #ffe9f9, #fff1e9, #f0ffe9, #fff1e9);
+  background: linear-gradient(#fff1e9, #ffe9f9, #fff1e9, #f0ffe9, #fff1e9, #e9efff);
 }
 
 img {
@@ -26,7 +26,7 @@ img {
   justify-content: left;
   list-style: none;
   font-family: "Manrope", sans-serif;
-  font-size: 1.2em;
+  font-size: 1.4vw !important;
   margin: 0;
   padding: 0;
   -webkit-user-select: none;
