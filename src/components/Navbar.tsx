@@ -7,12 +7,10 @@ const Header = () => {
           // Message, main idea
           }
         <a className="nav-btn" href="#author">About the Author</a>
-        <a className="nav-btn" href="#context-exigence">Context & Exigence</a>
-        
-        <a className="nav-btn" href="#purpose">Purpose</a> 
-        {
-          //Contains audience
-        }
+        <a className="nav-btn" href="#message">Message</a>
+        <a className="nav-btn" href="#context-exigence-purpose">Context</a>
+
+
         <a className="nav-btn" href="#choices">Rhetorical Choices</a>
         {
           /** 

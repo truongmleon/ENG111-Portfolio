@@ -2,7 +2,7 @@ const ContextExigence = () => {
     return (
         <div>
             <div className="flex">
-            <h2 data-aos="fade-down" id="context-header">What was the context and exigence?</h2>
+            <h2 data-aos="fade-down" id="context-header">Why did he write this?</h2>
             </div>
             <article>
                 <div id="colorPads">
@@ -43,7 +43,7 @@ const ContextExigence = () => {
                     Bukowski knew he was a loser and wholeheartedly accepted it as he didn’t try to change; he didn’t care. 
                     Manson says Bukowski would be the last person to read a self-improvement book.
                     </p>
-                    <div id="context-exigence"></div>
+                    <div id="context-exigence-purpose"></div>
                 </div>
             </article>
         </div>
