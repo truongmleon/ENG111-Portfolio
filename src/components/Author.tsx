@@ -13,7 +13,7 @@ const Author = () => {
                     His best selling book, <i>The Subtle Art of Not Giving a F*ck</i> sold more than 10 million copies globally.
                 </p>
                 </div>
-                <p data-aos="flip-left" id="quote"><i>"Life advice is most effective when it’s fun and unpretentious" - Mark Manson</i></p>
+                <p data-aos="flip-left" id="quote"><i>"Life advice is most effective when it’s fun and unpretentious"</i></p>
             </article>
         </div>
     )
