@@ -16,7 +16,6 @@
     <link rel="icon" type="image/x-icon" href="src/assets/favicon_io/favicon-32x32.png">
     <link rel="icon" type="image/x-icon" href="src/assets/favicon_io/favicon.ico">
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/lax.js" ></script>
     <title>APLAC Book Project</title>
   </head>
   <body>
@@ -26,24 +25,5 @@
   <script>
   AOS.init();
   
-  window.onload = function () {
-    lax.init()
-
-    // Add a driver that we use to control our animations
-    lax.addDriver('scrollY', function () {
-      return window.scrollY
-    })
-
-    // Add animation bindings to elements
-    lax.addElements('.selector', {
-      scrollY: {
-        translateX: [
-          ["elInY", "elCenterY", "elOutY"],
-          [0, 'screenWidth/2', 'screenWidth'],
-        ]
-      }
-    })
-  }
-
   </script>
 </html>

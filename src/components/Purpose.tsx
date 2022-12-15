@@ -6,5 +6,4 @@ const Purpose = () => {
     )
 
 }
-
 export default Purpose;
