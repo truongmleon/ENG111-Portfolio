@@ -29,13 +29,16 @@ const Message = () => {
                 <i>"Imagine you’re at  a  grocery store,  and  you  watch an  elderly  lady scream at the cashier, berating him for not accepting her thirty-cent coupon. Why does this lady give a f*ck? It’s just thirty cents. I’ll tell you why: That lady probably doesn’t have anything better to do with her days than to sit at home cutting out coupons."</i>
                 </p>
                 <h3 className="subtlety-header">
-                Subtlety #3: Whether you realize it or not, you are always choosing what to give a f*ck about.
+                Subtlety #3: Whether you realize it or not, you are always choosing what to give a f*ck about
                 </h3>
-
-                
+                <p className="subtlety-text">
+                When we were kids, every little thing appeared to matter SO much because they were new and exciting. So, we cared about everything and everyone. When we grow older, we realize much of the stuff we cared so much as a kid merely has a small lasting impact. This means we grow and start getting selective about what we care about, readjusting what is significant to us. Maturity.
+                <br />
+                <br />
+                <i>"We now reserve our ever-dwindling fucks for the most truly fuck-worthy parts of our lives: our families, our best friends, our golf swing. And, to our astonishment, this is enough."</i>
+                </p>
             </article>
         </div>
     )
 }
-
 export default Message;
