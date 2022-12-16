@@ -1,7 +1,10 @@
 const Message = () => {
     return (
         <div>
-            <h2 className='message-header'>What</h2>
+            <div id="message-titles">
+            <h2 data-aos="zoom-in" id='message-header-one'>WHAT WAS THE</h2>
+            <h2 data-aos="zoom-in" id='message-header-two'>MESSAGE?</h2>
+            </div>
         </div>
     )
 }

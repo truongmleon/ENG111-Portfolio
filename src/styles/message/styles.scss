@@ -1,13 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Manrope:wght@700&family=Montserrat:ital@0;1&family=Permanent+Marker&family=Roboto+Mono&display=swap');
-@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
 
-$manrope: 'Manrope', sans-serif;
-$montserrat: 'Montserrat', sans-serif;
-$roboto: 'Roboto Mono', monospace;
-$title: 'Permanent Marker', cursive;
-$lexend: "Lexend Deca", sans-serif;
-
-.message-header {
+#message-header-one {
     text-align: center;
-    font-size: 3em;
+    font-size: 9em;
+    font-family: 'Rubik Wet Paint', cursive;
+    position: relative;
+    top: 300px;
+}
+
+#message-header-two {
+    text-align: center;
+    font-size: 12em;
+    font-family: 'Rubik Wet Paint', cursive;
+    position: relative;
+    top: 130px;
 }
