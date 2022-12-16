@@ -23,9 +23,6 @@ const ContextExigence = () => {
                     <br />
                     <br />
                     Manson viewed the self-help industry poorly and as not very helpful to society. The culture of mindless positivity just wasn’t practical. His book is a response to that – to help people choose what is significant in life. He wants to give a healthier perspective on pain, trauma, and difficulties. People struggle; he wants people to struggle better. The people who desire self-help think something is wrong with themselves. Or perhaps someone who is already good wants to eliminate gaps to become a better person. The person who thinks something is wrong with them lacks self-acceptance and will think every choice they have made is flawed. Manson wants to change this with his book.
-                    <br />
-                    <br />
-
                     </p>
                     <div id="context-exigence-purpose"></div>
                 </div>

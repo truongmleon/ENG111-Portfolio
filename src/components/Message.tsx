@@ -1,6 +1,8 @@
 const Message = () => {
     return (
-        <div></div>
+        <div>
+            <h2>What</h2>
+        </div>
     )
 }
 
