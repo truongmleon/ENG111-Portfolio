@@ -2,7 +2,7 @@ const Author = () => {
     return (
         <div>
             <div className="flex">
-            <h2 data-aos="flip-right" id="author-header">Who is Mark Manson?</h2>
+            <h2 data-aos="flip-right" id="author-header">Who the f*ck is Mark Manson?</h2>
             </div>
             <div id="author" ></div>
             <img data-aos="flip-left" id='mark1' src="src/assets/manson1.png" alt="Mark Manson" />

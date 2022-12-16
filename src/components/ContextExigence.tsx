@@ -2,7 +2,7 @@ const ContextExigence = () => {
     return (
         <div>
             <div className="flex">
-            <h2 data-aos="fade-down" id="context-header">Why did he write this?</h2>
+            <h2 data-aos="fade-down" id="context-header">Why the f*ck did he write this?</h2>
             </div>
             <article>
                 <div id="colorPads">
