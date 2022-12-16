@@ -1,6 +1,8 @@
 const Choices = () => {
     return (
-        <div></div>
+        <div>
+
+        </div>
     )
 }
 
