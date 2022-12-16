@@ -24,11 +24,10 @@ const Analysis = () => {
                 <p data-aos="zoom-in-up">
                 How can people <i>choose</i> what they care about without sacrificing time and resources?
                     It's not as simple as sorting apples and oranges.
-                    People tend to notice that when they don’t care, everything seems to work out in place. The pieces of the puzzle suddenly fit together without much measure.
+                    People tend to notice that when they don’t care, everything seems to work out in place. The pieces of the puzzle suddenly fit together without many measures.
                 </p>
                 <p data-aos="zoom-in-up">
-                When I was in algebra, I was always trying to aim for that 100%. In the last test, I stopped caring about getting a perfect score and it just so happened that was the only math test I got a 100% that year.
-                    Some could argue it was a mere coincidence and they might be right, but I felt a lot more at ease that day when I took it.
+                When I was in algebra, I was always trying to aim for that 100%. In the last test, I stopped caring about getting a perfect score; it just so happened that was the only math test I got a 100% that year. Some could argue it was a mere coincidence, but I felt significantly more at ease that day when I took it.
                 </p>
                 <p data-aos="zoom-in-up">We all know it. You know it. Perhaps you're scared of <i>it</i>.
                 Most people in their lives have experienced social anxiety.
