@@ -29,13 +29,7 @@ const Analysis = () => {
                 <p data-aos="zoom-in-up">
                 When I was in algebra, I was always trying to aim for that 100%. In the last test, I stopped caring about getting a perfect score; it just so happened that was the only math test I got a 100% that year. Some could argue it was a mere coincidence, but I felt significantly more at ease that day when I took it.
                 </p>
-                <p data-aos="zoom-in-up">We all know it. You know it. Perhaps you're scared of <i>it</i>.
-                Most people in their lives have experienced social anxiety.
-                Well I know I did at least.
-                But really, only a small margin of people care about who you are and what your do, which could be
-                your closest friends or your biggest haters. 
-                It took me a long time to realize this, and realizing was all it took to move another step in the life puzzle.
-                That step was an opportunity to feel more confident and happier.
+                <p data-aos="zoom-in-up">We all know it. You know it. Perhaps you're scared of it. Most people in their lives have experienced social anxiety. Well, I know I did, at least. But really, only a small margin of people care about who you are and what you do, which could be your tightest friends or your amplest judgers. It took me a long time to realize this, and realizing was all it took to move another step in the life puzzle. That step was an opportunity to feel more confident and happier.
                 </p>
                 <p data-aos="zoom-in-up">Isn't it weird that not caring is the solution to some of our problems? </p>
             </section>
