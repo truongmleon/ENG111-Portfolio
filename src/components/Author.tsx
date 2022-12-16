@@ -8,15 +8,17 @@ const Author = () => {
             <img data-aos="flip-left" id='mark1' src="src/assets/manson1.png" alt="Mark Manson" />
             <article>
                 <div className="flex">
-                <p data-aos="flip-right" id="about-mark">Mark Manson is an American self-help-self-proclaimed-psychologist-humor-writer and blogger. Bloggling life advice was all he really did out of college, but
-                    in a few years, he started writing books as well. He wrote for fun and tried to be helpful.
-                    Manson writes for adults who desire for self-improvement. 
-                    The reason for this is that he wants to give self-help advice while being humorous because he thinks 
-                    advice is best presented in a fun manner.
-                    In his books, he depicts situations using profanity to make the text engaging with a serious outlook at the end.
+                <p data-aos="flip-right" id="about-mark">
+                Mark Manson is an American humor writer and blogger. After college, all he did was blog about life guidance, but after a while, he also began to write books. Manson writes for adults who desire self-improvement. He wants to give self-help advice while being humorous because he thinks advice is best presented in a fun manner. In his books, he depicts situations using profanity to make the text engaging with a serious outlook.
                 </p>
                 </div>
-                <p data-aos="flip-left" id="quote"><i>"Life advice is most effective when it’s fun and unpretentious"</i></p>
+                <div className="flex">
+                <p data-aos="flip-left" id="quote"><i>"Everyone and their TV commercial wants you to believe that the key to a
+good life is a nicer job, or a more rugged car, or a prettier girlfriend, or a hot
+tub with an inflatable pool for the kids. The world is constantly telling you
+that the path to a better life is more, more, more—buy more, own more, make
+more, f*ck more, be more."</i></p>
+                </div>
             </article>
         </div>
     )
