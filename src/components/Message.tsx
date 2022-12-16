@@ -23,8 +23,16 @@ const Message = () => {
                 Subtlety #2: To not give a f*ck about adversity, you must first give a f*ck about something more important than adversity
                 </h3>
                 <p className="subtlety-text">
-                
+                People who find themselves constantly handing out the “I care” card do not have much they care for deeply. Many of our “life problems” take our limited attention, but they don’t matter that much. Figuring out something substantial to care about is a more productive use of time compared to caring about small meaningless causes that contribute little to nothing to life.
+                <br />
+                <br />
+                <i>"Imagine you’re at  a  grocery store,  and  you  watch an  elderly  lady scream at the cashier, berating him for not accepting her thirty-cent coupon. Why does this lady give a f*ck? It’s just thirty cents. I’ll tell you why: That lady probably doesn’t have anything better to do with her days than to sit at home cutting out coupons."</i>
                 </p>
+                <h3 className="subtlety-header">
+                Subtlety #3: Whether you realize it or not, you are always choosing what to give a f*ck about.
+                </h3>
+
+                
             </article>
         </div>
     )
