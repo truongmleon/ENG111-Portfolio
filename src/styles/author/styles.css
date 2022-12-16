@@ -34,7 +34,7 @@
   top: 400px;
 }
 
-#quote {
+.quote {
   font-size: 1.4em;
   font-family: "Lora", serif;
   width: 50%;
