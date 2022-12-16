@@ -35,7 +35,7 @@ const Message = () => {
                 When we were kids, every little thing appeared to matter SO much because they were new and exciting. So, we cared about everything and everyone. When we grow older, we realize much of the stuff we cared so much as a kid merely has a small lasting impact. This means we grow and start getting selective about what we care about, readjusting what is significant to us. Maturity.
                 <br />
                 <br />
-                <i>"We now reserve our ever-dwindling fucks for the most truly fuck-worthy parts of our lives: our families, our best friends, our golf swing. And, to our astonishment, this is enough."</i>
+                <i>"We now reserve our ever-dwindling fucks for the most truly f*ck-worthy parts of our lives: our families, our best friends, our golf swing. And, to our astonishment, this is enough."</i>
                 </p>
             </article>
         </div>
