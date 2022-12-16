@@ -32,6 +32,8 @@ const ContextExigence = () => {
                     <br />
                     <br />
                     Manson viewed the self-help industry poorly as not very helpful to society. The culture of mindless positivity just wasn’t very practical. His book is a response to that – to help people choose what is important in life. He wants to give a healthier perspective on pain, trauma, and problems. People struggle – he wants people to struggle better.
+                    The people who want self-help think something is fundamentally wrong with themselves or someone who is already good wants to elimate gaps to become a great person.
+                    
                     <br />
                     <br />
                     An example of this is when Manson sets up the stage by talking about Charles Bukowski, an alcoholic, a chronic gambler, a lout, and a poet. 
