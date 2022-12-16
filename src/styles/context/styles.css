@@ -35,7 +35,7 @@
   transform: rotate(-30deg) skew(-28deg);
   background: linear-gradient(45deg, #ffbdf7, #cab2fa);
   filter: hue-rotate(48.39deg);
-  top: 2760px;
+  top: 3060px;
   left: 5vw;
 }
 
@@ -43,7 +43,7 @@
   width: 160px;
   height: 160px;
   left: 19vw;
-  top: 3280px;
+  top: 3580px;
   transform: rotate(30deg) skew(28deg);
   background: linear-gradient(45deg, #d9f9ff, #d0baf9);
 }
@@ -52,7 +52,7 @@
   width: 160px;
   height: 160px;
   left: 82vw;
-  top: 2780px;
+  top: 3080px;
   transform: rotate(30deg) skew(-28deg);
   background: linear-gradient(45deg, #9caffc, #d1bdf9);
   filter: hue-rotate(48.39deg);
@@ -62,7 +62,7 @@
   width: 180px;
   height: 180px;
   left: 74vw;
-  top: 2980px;
+  top: 3280px;
   transform: rotate(10deg) skew(-28deg);
   background: linear-gradient(45deg, #c5caff, #c0fcfd);
   filter: hue-rotate(48.39deg);
@@ -72,7 +72,7 @@
   width: 130px;
   height: 130px;
   left: 70vw;
-  top: 3200px;
+  top: 3500px;
   transform: rotate(10deg) skew(28deg);
   background: linear-gradient(45deg, #beecfd, #bbffd4);
 }
@@ -81,7 +81,7 @@
   width: 130px;
   height: 130px;
   left: 40vw;
-  top: 2750px;
+  top: 3050px;
   transform: rotate(10deg) skew(48deg);
   background: linear-gradient(45deg, #bed4fd, #bbfdff);
 }
@@ -90,7 +90,7 @@
   width: 130px;
   height: 130px;
   left: 60vw;
-  top: 3000px;
+  top: 3300px;
   transform: rotate(10deg) skew(-18deg);
   background: linear-gradient(45deg, #befdfa, #c1ffbb);
 }
@@ -99,7 +99,7 @@
   width: 160px;
   height: 160px;
   left: 85vw;
-  top: 3200px;
+  top: 3500px;
   transform: rotate(60deg) skew(18deg);
   background: linear-gradient(45deg, #fdbef6, #ffbbbb);
 }
@@ -108,7 +108,7 @@
   width: 160px;
   height: 160px;
   left: 5vw;
-  top: 3200px;
+  top: 3500px;
   transform: rotate(20deg) skew(18deg);
   background: linear-gradient(45deg, #fdbebe, #ffe4bb);
 }
@@ -117,7 +117,7 @@
   width: 190px;
   height: 190px;
   left: 15vw;
-  top: 3000px;
+  top: 3300px;
   transform: rotate(20deg) skew(-48deg);
   background: linear-gradient(45deg, #fcbefd, #ffbbbb);
 }/*# sourceMappingURL=styles.css.map */
