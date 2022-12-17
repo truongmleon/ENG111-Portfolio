@@ -1,7 +1,9 @@
 const Writing = () => {
     return (
         <div>
-            <h2 id="writing-header">WRITING ANALYSIS</h2>
+            <div id="writing"></div>
+            <br />
+            <h2 data-aos="zoom-out-down"  id="writing-header">WRITING ANALYSIS</h2>
         </div>
     )
 }
