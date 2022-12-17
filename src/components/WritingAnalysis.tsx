@@ -104,10 +104,10 @@ const Writing = () => {
                         is incredibly well written, providing advice and benefits to everyone who reads
                         Manson's words. The book keeps you engaged in the material with colloquial
                         diction. You'll find numerous interesting stories to tie back to your life,
-                        perhaps improving yourself and your lifestyle.
+                        improving yourself and your lifestyle.
                         <br />
                         <br />
-                        Now that you've read my analysis, decide for yourself!
+                        I encourage you to trust your judgement. Now that you've read my analysis, decide for yourself! 
                         </p>    
                     </div>
                 </div>

@@ -7,7 +7,7 @@
 
 body, html {
   overflow-x: hidden;
-  height: calc(100% + 351em);
+  height: calc(100% + 311em);
   margin: 0;
   padding: 0;
   background: linear-gradient(#fff1e9, #ffe9f9, #fff1e9, #f0ffe9, #e9fffe, #e9efff);

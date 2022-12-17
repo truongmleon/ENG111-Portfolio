@@ -6,6 +6,7 @@ import Author from './components/Author';
 import ContextExigence from './components/ContextExigence';
 import Message from './components/Message';
 import WritingAnalysis from './components/WritingAnalysis';
+import References from './components/References';
 import { useState } from 'react';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
@@ -16,5 +17,6 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <ContextExigence />
     <Message />
     <WritingAnalysis />
+    <References />
   </React.StrictMode>
 );
