@@ -17,7 +17,7 @@
     width: 45%;
 }
 
-#content-arrangements, #content-diction, #content-devices, #content-appeals {
+#content-arrangements, #content-diction, #content-devices, #content-appeals, #content-tone {
     width: 60%;
     border: double 9px #000;
     height: auto;
@@ -40,6 +40,10 @@
     background-color: rgb(255, 255, 240);;
 }
 
+#content-tone {
+    background-color: rgb(240, 251, 255);;
+}
+
 .content-titles {
     font-size: 1.8em;
     padding: 10px;
@@ -54,3 +58,4 @@
     font-size: 1.2em;
     font-family: 'Poppins', sans-serif;
 }
+
