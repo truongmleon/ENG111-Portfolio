@@ -46,12 +46,23 @@ const Writing = () => {
             <br />
             <div className="flex">
                 <div data-aos="zoom-in" id="content-diction">
-                <h4 data-aos="fade-right" className="content-titles">Diction: fun word choice</h4>
+                <h4 data-aos="fade-right" className="content-titles">Diction: Colloquial</h4>
                 <p data-aos="fade-left" className="content-text">
-                    pftcxiujhvjiuoiuiohihuiigvuk8y9go8u87goy
+                The language Manson portrays is not formal and is easily understood by most people. Writing comprehension allows for a boarder audience as many people have difficulties choosing what problem is beneficial for their improvement. His writing is fluid and creative to prevent boredom within the audience with a lower possibility of misunderstanding the text. Creativity allows people to feel more upbeat - it feels more personal like talking to a close friend.
+                <br />
+                <br />
+                <i>
+                "Imagine that somebody puts a gun to your head and tells you that you have
+                to run 26.2 miles in under five hours, or else he’ll kill you and your entire
+                family. That would suck."
+                </i>
                 </p>
                 </div>
             </div>
+            </article>
+            
+            <article>
+            <h3 data-aos="zoom-in" className="analysis-header">Appeals</h3>
             </article>
         </div>
     )
