@@ -1,7 +1,7 @@
 const Writing = () => {
     return (
         <div>
-            <h2>WRITING ANALYSIS</h2>
+            <h2 id="writing-header">WRITING ANALYSIS</h2>
         </div>
     )
 }
