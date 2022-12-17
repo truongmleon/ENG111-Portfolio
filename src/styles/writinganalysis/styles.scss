@@ -17,7 +17,7 @@
     width: 45%;
 }
 
-#content-arrangements, #content-diction, #content-devices, #content-appeals, #content-tone {
+#content-arrangements, #content-diction, #content-devices, #content-appeals, #content-tone, #content-final {
     width: 60%;
     border: double 9px #000;
     height: auto;
@@ -42,6 +42,10 @@
 
 #content-tone {
     background-color: rgb(240, 251, 255);;
+}
+
+#content-final {
+    background-color: rgb(249, 240, 255);;
 }
 
 .content-titles {

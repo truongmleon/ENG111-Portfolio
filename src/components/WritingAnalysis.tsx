@@ -80,14 +80,34 @@ const Writing = () => {
                 <h3 data-aos="zoom-in" className="analysis-header">Tone</h3>
                 <div className="flex">
                     <div data-aos="zoom-in" id="content-tone"> 
+                    <h4 data-aos="fade-right" className="content-titles">Persuasive Tone</h4>
                         <p data-aos="fade-left" className="content-text">
-                        Manson often helps the audience self-reflect with some reasoning. This allows the audience to develop an intuition the next time they face a similar problem. It ties in with how throughout the book Manson describes situations with aphorisms.
-                        An example of this is when Manson was discussing improvement requiring numerous failures to succeed. The next time the audience thinks “they are better than me,” they reflect and think it’s because they put in the effort, so they should too. 
+                        Manson wants people to take away ideas from his book to improve themselves. He does a good job of convincing ideas to the audience with rationale and humor. For instance, the values and metrics of Dave Mustaine. Mustaine was kicked out of the band Metallica and vowed to start a new band. Mustaine wanted his band to become more successful than Metallica, trying to prove they would regret their choice for kicking him out. He ended up quite famous and was on TV, the radio, in posters, and in magazines. Mustaine spent months recruiting the best musicians he could find. That band was Megadeth. It sold over 25 million albums and toured around the world. Yet, Mustaine considered himself a failure because Metallica sold over 180 million albums. Mustaine chose his problem, which was to surpass Metallica, but he still thought to have failed despite being incredibly successful. It really brings the standard of how we measure ourselves to the table with the usage of irony; typically, we think being successful and famous is sought after in a musical group that wants to go big, but not in this case. 
                         <br />
                         <br />
                         <i>
-                            "If someone is better than you at something, then it’s likely because she has failed at it more than you have. If someone is worse than you, it’s likely because he hasn’t been through all of the painful learning experiences you have."
+                            "Despite taking a horrible event in his life and making something positive out of it, as Mustaine did with Megadeth, his choice to hold on to Metallica’s success as his life-defining metric continued to hurt him decades later. Despite all the money and the fans and the accolades, he still considered himself a failure."
                         </i>
+                        </p>    
+                    </div>
+                </div>
+            </article>
+            <article>
+            <h3 data-aos="zoom-in" className="analysis-header">Final Thoughts - Should You Read This?</h3>
+            <div className="flex">
+                    <div data-aos="zoom-in" id="content-final"> 
+                        <p data-aos="fade-left" className="content-text">
+                        Why not? 
+                        <br />
+                        <br />
+                        <i>The Subtle Art of Not Giving a F*ck </i> 
+                        is incredibly well written, providing advice and benefits to everyone who reads
+                        Manson's words. The book keeps you engaged in the material with colloquial
+                        diction. You'll find numerous interesting stories to tie back to your life,
+                        perhaps improving yourself and your lifestyle.
+                        <br />
+                        <br />
+                        Now that you've read my analysis, decide for yourself!
                         </p>    
                     </div>
                 </div>
