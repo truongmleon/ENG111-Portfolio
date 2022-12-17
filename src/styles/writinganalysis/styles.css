@@ -19,7 +19,7 @@
 #content-arrangements, #content-diction, #content-devices {
   width: 60%;
   border: double 9px #000;
-  height: 400px;
+  height: auto;
   box-shadow: 7px 8px 3px 1px rgba(70, 70, 70, 0.1);
 }
 
