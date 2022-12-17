@@ -3,6 +3,7 @@ const References = () => {
         <div>
             <h3 data-aos="zoom-in" id="ref-header">References</h3>
             <ul data-aos="zoom-in">
+                <li><a target="_blank" className="link" href="https://github.com/truongmleon/APLAC-Book-Project">Coded with &lt;3 by Leon Truong using React.js </a></li>
                 <li><a target="_blank" className="link" href="https://markmanson.net/books/subtle-art">The Subtle Art of Not Giving a F*ck</a></li>
                 <li><a target="_blank" className="link" href="https://youtu.be/a3Z7zEc7AXQ">The Subtle Art of Not Giving a F*ck (2nd link)</a></li>
                 <li><a target="_blank" className="link" href="https://markmanson.net/about">https://markmanson.net/about</a></li>
