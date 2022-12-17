@@ -9,16 +9,22 @@ const Writing = () => {
             {
                 //Arrangements, Devices, Diction
             }
-            <div id="context-arrangements">
-            
+            <div className="flex">
+                <div id="content-arrangements">
+                <h4 className="content-titles">Arrangement: exemplification</h4>
+                </div>
             </div>
-
-            <div id="context-devices">
-
+            <br />
+            <div className="flex">
+                <div id="content-devices">
+                <h4 className="content-titles">Devices: </h4>
+                </div>
             </div>
-
-            <div id="context-diction">
-
+            <br />
+            <div className="flex">
+                <div id="content-diction">
+                <h4 className="content-titles">Diction: fun word choice</h4>
+                </div>
             </div>
             </article>
         </div>

@@ -12,6 +12,29 @@
     font-size: 3em;
     position: relative;
     left: 100px;
-    border-bottom: double 9px #000;
+    border-bottom: double 12px #000;
     width: 40%;
+}
+
+#content-arrangements, #content-diction, #content-devices {
+    width: 60%;
+    border: double 9px #000;
+    height: 400px;
+}
+
+#content-arrangements {
+    background-color: aliceblue;
+}
+
+#content-devices {
+    background-color: rgb(249, 240, 255);
+}
+
+#content-diction {
+    background-color: rgb(255, 240, 240);
+}
+
+.content-titles {
+    padding: 10px;
+    margin: 0;
 }
