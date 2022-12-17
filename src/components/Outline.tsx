@@ -3,7 +3,7 @@ const Analysis = () => {
         <div data-aos="fade-down" id='book-analysis'>
         <h1 data-aos="fade-down" id='book-title'>The Subtle Art of Not Giving A F*ck</h1>
         <h2 data-aos="fade-down" id='book-author'>A book by Mark Manson with analysis by Leon Truong</h2>
-        <div className="flex"> <img data-aos="zoom-in" id='book-cover' src="src/assets/book1.jpeg" alt="a book cover" /></div>
+        <div className="flex"> <img data-aos="zoom-in" id='book-cover' src="public/book1.jpeg" alt="a book cover" /></div>
         <article id="outline">
             <section className="section-analysis">
             <div id="bubbles">

@@ -5,7 +5,7 @@ const Author = () => {
             <h2 data-aos="flip-right" id="author-header">Who the f*ck is Mark Manson?</h2>
             </div>
             <div id="author" ></div>
-            <img data-aos="flip-left" id='mark1' src="src/assets/manson1.png" alt="Mark Manson" />
+            <img data-aos="flip-left" id='mark1' src="public/manson1.png" alt="Mark Manson" />
             <article>
                 <div className="flex">
                 <p data-aos="flip-right" id="about-mark">
