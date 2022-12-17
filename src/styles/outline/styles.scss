@@ -13,6 +13,7 @@ $lexend: "Lexend Deca", sans-serif;
 }
 
 body, html {
+    overflow-x: hidden;
     height: calc(100% + 201em);
     margin: 0;
     padding: 0;
