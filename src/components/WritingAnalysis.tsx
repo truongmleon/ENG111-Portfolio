@@ -32,7 +32,13 @@ const Writing = () => {
                 <div data-aos="zoom-in" id="content-devices">
                 <h4 data-aos="fade-right" className="content-titles">Devices: Aphorism</h4>
                 <p data-aos="fade-left" className="content-text">
-                    pftcxiujhvjiuoiuiohihuiigvuk8y9go8u87goy
+                Throughout Manson’s book, he utilizes a large magnitude of aphorisms. After all, this is a self-improvement book designed for improving one’s life. An example is when Manson talked about how people felt “right” doing terrible things. Most people likely don’t realize or understand the “why” people do what they do. This says quite a lot about the perspectives of others and on the flip side, what other people might think about them since it's helpful to get an idea of every perspective.
+                <br />
+                <br />
+                <i>For individuals to feel justified in doing horrible things to other people,
+they must feel an unwavering certainty in their own righteousness, in their
+own beliefs and deservedness. Racists do racist things because they’re certain
+about their genetic superiority.</i>
                 </p>
                 </div>
             </div>
