@@ -7,9 +7,6 @@ const Writing = () => {
             <h2 data-aos="zoom-out-up"  id="writing-header">WRITING ANALYSIS</h2>
             <article>
             <h3 data-aos="zoom-in" className="analysis-header">Rhetorical Chooooooooices</h3>
-            {
-                //Arrangements, Devices, Diction
-            }
             <div className="flex">
                 <div data-aos="zoom-in" id="content-arrangements">
                 <h4 data-aos="fade-right" className="content-titles">Arrangement: Exemplification</h4>

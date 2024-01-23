@@ -1,10 +1,10 @@
 const Analysis = () => {
     return (
         <div data-aos="fade-down" id='book-analysis'>
-        <h1 data-aos="fade-down" id='book-title'>The Subtle Art of Not Giving A F*ck</h1>
-        <h2 data-aos="fade-down" id='book-author'>A book by Mark Manson with analysis by Leon Truong</h2>
-        <div className="flex"> <img data-aos="zoom-in" id='book-cover' src="/book1.jpeg" alt="a book cover" /></div>
-        <article id="outline">
+        <h1 data-aos="fade-down" id='book-title'>UW ENG131 WRITING PORTFOLIO</h1>
+        <h2 data-aos="fade-down" id='book-author'>Leon Truong</h2>
+        <div className="flex"></div>
+        <article id="introduction">
             <section className="section-analysis">
             <div id="bubbles">
             <div data-aos="fade-up"></div>
@@ -14,7 +14,7 @@ const Analysis = () => {
             <div data-aos="fade-up"></div>
             <div data-aos="fade-up"></div>
           </div>
-                <h3 data-aos="fade-up-right" className="headers">Is it good to not <i>care</i>?</h3>
+                <h3 data-aos="fade-up-right" className="headers" id="introduction">Introduction</h3>
                 <p data-aos="zoom-in-up">
                     People care too much. 
                     People care too much about their surroundings. 
