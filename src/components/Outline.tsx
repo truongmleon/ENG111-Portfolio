@@ -1,8 +1,8 @@
 const Analysis = () => {
     return (
-        <div data-aos="fade-down" id='book-analysis'>
-        <h1 data-aos="fade-down" id='book-title'>UW ENG131 WRITING PORTFOLIO</h1>
-        <h2 data-aos="fade-down" id='book-author'>Leon Truong</h2>
+        <div data-aos="fade-down" id='portfolio-analysis'>
+        <h1 data-aos="fade-down" id='portfolio-title'>UW ENG131 WRITING PORTFOLIO</h1>
+        <h2 data-aos="fade-down" id='portfolio-author'>Leon Truong</h2>
         <div className="flex"></div>
         <article id="introduction">
             <section className="section-analysis">

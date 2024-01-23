@@ -1,8 +1,8 @@
-const ContextExigence = () => {
+const OutcomeOne = () => {
     return (
         <div>
             <div className="flex">
-            <h2 data-aos="fade-down" id="context-header">Why the f*ck did he write this?</h2>
+            <h2 data-aos="fade-down" id="context-header">Outcome One</h2>
             </div>
             <article>
                 <div id="colorPads">
@@ -40,4 +40,4 @@ const ContextExigence = () => {
     )
 }
 
-export default ContextExigence;
+export default OutcomeOne;
