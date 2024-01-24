@@ -1,10 +1,10 @@
 const Writing = () => {
     return (
         <div>
-            <div id="writing"></div>
+            <div id="outcome-three"></div>
             <br />
             <br />
-            <h2 data-aos="zoom-out-up"  id="writing-header">WRITING ANALYSIS</h2>
+            <h2 data-aos="zoom-out-up"  id="writing-header">OUTCOME THREE</h2>
             <article>
             <h3 data-aos="zoom-in" className="analysis-header">Rhetorical Chooooooooices</h3>
             <div className="flex">
