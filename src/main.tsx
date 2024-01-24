@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import Outline from './components/Outline';
 import OutcomeOne from './components/OutcomeOne';
 import OutcomeTwo from './components/OutcomeTwo';
-import WritingAnalysis from './components/WritingAnalysis';
+import OutcomeThree from './components/OutcomeThree';
 import References from './components/References';
 import { useState } from 'react';
 
@@ -14,7 +14,7 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <Outline />
     <OutcomeOne />
     <OutcomeTwo />
-    <WritingAnalysis />
+    <OutcomeThree />
     <References />
   </React.StrictMode>
 );

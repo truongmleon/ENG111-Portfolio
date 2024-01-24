@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Patua+One&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 #writing-header {
+  position: relative;
   text-align: center;
   font-family: "Rubik Mono One", cursive;
   font-size: 9em;

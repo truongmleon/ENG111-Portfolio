@@ -2,9 +2,8 @@ const OutcomeTwo = () => {
     return (
         <div>
             <div id="message-titles">
-            <div id="outcome-two"></div>
-            <h2 data-aos="zoom-in" id='message-header-one'>Outcome</h2>
-            <h2 data-aos="zoom-in" id='message-header-two'>Two</h2>
+            <h2 data-aos="zoom-in" id='outcome-two'>Outcome</h2>
+            <h2 data-aos="zoom-in" id='message-header-one'>Two</h2>
             </div>
             <h3 data-aos="zoom-out-up" id="lead-in">My perspectives alone aren’t enough to craft an effective argument. Outcome Two is about gathering perspectives from different sources to argue.</h3>
             <article>
@@ -31,6 +30,15 @@ const OutcomeTwo = () => {
                 </h3>
                 <p data-aos="zoom-out-up" className="subtlety-text">
                 Something that didn’t really stand out to me in my previous Englishes was that textual evidence can “talk” to each other. Here in my Major Paper, I dropped the linearity of having two pieces of evidence to support a claim. Nahman’s and McDonald’s pieces ties closely with the idea of being watched. I took advantage of how genres are similar to habits of acting in specific environments. Utilizing this connection, I talked about personal examples regarding my close friends’ Discord server and an academic one.
+                <br />
+                <br />
+                Another connection was between Tolentino’s piece and What We Believe About Identity by Julia Alvarez. Due to many influential people, the internet is what it is today with lots of people taking it for granted. Alvarez’s talk about needing more vocabulary for expressions ties very nicely to my idea of how the internet pushes forward with internet slang and trends. Tolentino comes in with an example of how the internet and internet language could be abused with the infamous Gamergaters. To those who want to express themselves freely, random, uncalled for language is bound to occur. With how conveniently these two pieces connect, I talked about possible solutions such as creating a new social media account to be in fruitful expression or taking a break from the internet altogether.
+                </p>
+                <h3 data-aos="zoom-out-up" className="subtlety-header">
+                Using citation styles appropriate for the genre and context.
+                </h3>
+                <p data-aos="zoom-out-up" className="subtlety-text">
+                I learned and cited in MLA format effectively with the help of Citation Machine for my Major Paper. The flexibility of the Major Paper allowed me to pick sources that had interesting perspectives about identity for developing my argument.
                 </p>
                 
 

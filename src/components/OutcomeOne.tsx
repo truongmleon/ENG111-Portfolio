@@ -4,6 +4,7 @@ const OutcomeOne = () => {
             <div className="flex">
             <h2 data-aos="fade-down" id="outcome-one-title">Outcome One</h2>
             </div>
+            <div id="outcome-one"></div>
             <article>
                 <div className="flex">
                     <p data-aos="fade-right" id='context'>
@@ -33,9 +34,7 @@ const OutcomeOne = () => {
                     <br />
                     As I believe I have a playful personality, I wanted my papers to sound like me if I was talking to my HOMIES. Aside from gathering textual evidence and bringing in personal examples and opinions, I wanted to discuss specifics outside of my life to argue using psychological / philosophical thought, sourced evidence, and personal insight. I made sure to be confident in my stances of how ugly the internet is with the MrBeast example, which I’m sure a quite a few people know his controversies. In ENG131, I found that incorporating psychological self-reflection somewhat improves my credibility as an author and adds strength to my argument. For instance, at one point in my essay, I talked about labels for queer and transgender people and how it might be more normalized to having specific labels in the future. Here, I added a personal story of me not realizing the importance of these labels until sometime in middle school. The concept of time really develops what seems “normal” to people.
                     </p>
-                    <div id="outcome-one"></div>
                 </div>
-
             </article>
         </div>
     )
