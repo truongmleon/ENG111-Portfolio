@@ -1,4 +1,4 @@
-const Analysis = () => {
+const Outline = () => {
     return (
         <div data-aos="fade-down" id='portfolio-analysis'>
         <h1 data-aos="fade-down" id='portfolio-title'>UW ENG131 WRITING PORTFOLIO</h1>
@@ -50,7 +50,7 @@ const Analysis = () => {
                 Leon Truong
                 </p>
                 <p data-aos="zoom-in-up">
-                PS: I used my passion of coding to create this website
+                PS: I used my passion of coding to create this website.
                 </p>
             </section>
         </article>
@@ -58,4 +58,4 @@ const Analysis = () => {
     )
 }
 
-export default Analysis;
+export default Outline;

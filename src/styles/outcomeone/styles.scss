@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Manrope:wght@700&family=Montserrat:ital@0;1&family=Permanent+Marker&family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@700&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 
@@ -8,7 +9,7 @@ $roboto: 'Roboto Mono', monospace;
 $title: 'Permanent Marker', cursive;
 $lexend: "Lexend Deca", sans-serif;
 
-#outcome-one {
+#outcome-one-title {
     font-family: 'Fredoka One', cursive;
     text-align: center;
     font-size: 2.5em;
@@ -26,7 +27,7 @@ $lexend: "Lexend Deca", sans-serif;
 #context {
     font-size: 1.4em;
     font-family: 'Lora', serif;
-    width: 50%;
+    width: 70%;
     position: relative;
     top: 400px;
     z-index: 2;
@@ -116,7 +117,7 @@ $lexend: "Lexend Deca", sans-serif;
     width: 160px;
     height: 160px;
     left: 5vw;
-    top: 1800px;
+    top: 1700px;
     transform: rotate(20deg) skew(18deg);
     background: linear-gradient(45deg, #fdbebe, #ffe4bb);
 }
@@ -128,4 +129,8 @@ $lexend: "Lexend Deca", sans-serif;
     top: 1500px;
     transform: rotate(20deg) skew(-48deg);
     background: linear-gradient(45deg, #fcbefd, #ffbbbb);
+}
+
+.outcome-titles {
+    font-size: 1.2em;
 }

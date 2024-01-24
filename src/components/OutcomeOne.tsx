@@ -2,19 +2,38 @@ const OutcomeOne = () => {
     return (
         <div>
             <div className="flex">
-            <h2 data-aos="fade-down" id="outcome-one">Outcome One</h2>
+            <h2 data-aos="fade-down" id="outcome-one-title">Outcome One</h2>
             </div>
             <article>
                 <div className="flex">
                     <p data-aos="fade-right" id='context'>
-                    Manson started a blog in 2007 to post about dating advice; fast-forward to 2010, he transitioned to self-help writing. The internet really started to gain traction around this time among younger generations, especially with the debut of the iPhone. Now, there was a place where one could efficiently find endless amounts of information in a matter of seconds. A quick search like "How do I get my EX back?" would pop-up hundreds of results. As Manson was developing life advice with humor and such unique word choice on his blog, he started gaining a following as a million people read his blogs every month. It’s owed to the internet that Manson was able to provide self-help advice from his experiences, which led to the growth of his audience. Manson basically went from being a broke college student to making crappy blogs to becoming a self-help influencer. In the book <i>The Subtle Art of Not Giving a F*ck</i>, he tells numerous stories across various timelines to try to get the audience to understand what is being depicted. The stories told are meaningful and help the audience relate with a sense of humor.
-                    The connections made between the audience and the book help people choose what is important on their plate.
+                    A well-rounded argument should be arguable and diverse. Outcome One is about writing effectively to be arguable.
                     <br />
                     <br />
-                    Manson viewed the self-help industry poorly and as not very helpful to society. The culture of mindless positivity just wasn’t practical. His book is a response to that – to help people choose what is significant in life. He wants to give a healthier perspective on pain, trauma, and difficulties. People struggle; he wants people to struggle better. The people who desire self-help think something is wrong with themselves. Or perhaps someone who is already good wants to eliminate gaps to become a better person. The person who thinks something is wrong with them lacks self-acceptance and will think every choice they have made is flawed - more of a reason to create a quality self-help book.
+                    <b className="outcome-titles">Recognize how different elements of a rhetorical situation matter for the task at hand and affect the options for composing and distributing texts.</b>
+                    <br />
+                    <br />
+                    I want to make the reader aware that the speaker is decently versed on the internet who knows a thing or two about the messy web (also was a people pleaser to a fault for personal stories). I talked about a connection of the Google search engine and provided opinions on documenting one’s life with cameras with how it could be used effectively. The reader will also realize I’ve spent lots of time experimenting in different fandoms or communities as I talked about my multiple identities in STEM and French regarding Discord and Reddit. This helps enforce the idea that the internet is a superb place to craft different sides of any person.
+                    <br />
+                    <br />
+                    As the context of this piece takes place in the modern (virtual) world with unreasonable takes and disapproval, I wish to acknowledge the flaws of the internet as well. The internet is dangerously influential, so I mentioned the unnecessary and irrational hate for a bird that has done no wrong. For the unfortunate most part, people take the internet for granted by spewing hate and taking advantage of having multiple identities to harm. Knowing the setting of the internet is far from perfect, this gives the reader insight on how effective learning perspectives on the web can really be.
+                    <br />
+                    <br />
+                    <b className="outcome-titles">Coordinate, negotiate, and experiment with various aspects of composing—such as genre, content, conventions, style, language, organization, appeals, media, timing, and design—for diverse rhetorical effects tailored to the given audience, purpose, and situation.</b>
+                    <br />
+                    <br />
+                    The purpose of this piece is to argue for how to not waste your precious time wandering on the internet. In my essay, the rationale for capturing oneself is to observe a new perspective of a different you (or perhaps someone else). However, doing that too often can sort of cast a Hawthorne effect on yourself. I like to consider that each of my claims has some flaw that should be addressed. The design of my essay is to be as explicit as possible. I reflected and thought about a possible solution to minimize the Hawthorne effect as much as possible by using a third party.
+                    <br />
+                    <br />
+                    I wanted my audience to relate with me or at least gain some insight with my ideas with specific examples. As a teenager, who relates to other teenagers, I can understand the feeling of not fitting in and resorting to needing to act. I mentioned about being a geometry homework helper who could not stop helping. It wasn’t until my true friends convinced me to draft a message to the geometry receiver stating no more geometry help and no more acting for this instance. While a small feat, this later built on for when I started learning how to code and develop my own passions while not giving a care in the world about acting. I hope to enlighten people with similar experiences or mindsets or even social issues to perhaps use the internet differently.
+                    <br />
+                    <br />
+                    <b className="outcome-titles">Assess and articulate the rationale for and effects of composition choices.</b>
+                    <br />
+                    <br />
+                    As I believe I have a playful personality, I wanted my papers to sound like me if I was talking to my HOMIES. Aside from gathering textual evidence and bringing in personal examples and opinions, I wanted to discuss specifics outside of my life to argue using psychological / philosophical thought, sourced evidence, and personal insight. I made sure to be confident in my stances of how ugly the internet is with the MrBeast example, which I’m sure a quite a few people know his controversies. In ENG131, I found that incorporating psychological self-reflection somewhat improves my credibility as an author and adds strength to my argument. For instance, at one point in my essay, I talked about labels for queer and transgender people and how it might be more normalized to having specific labels in the future. Here, I added a personal story of me not realizing the importance of these labels until sometime in middle school. The concept of time really develops what seems “normal” to people.
                     </p>
-
-                    <div id="context-exigence-purpose"></div>
+                    <div id="outcome-one"></div>
                 </div>
 
             </article>
