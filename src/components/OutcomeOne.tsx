@@ -2,7 +2,7 @@ const OutcomeOne = () => {
     return (
         <div>
             <div className="flex">
-            <h2 data-aos="fade-down" id="context-header">Outcome One</h2>
+            <h2 data-aos="fade-down" id="outcome-one">Outcome One</h2>
             </div>
             <article>
                 <div id="colorPads">
@@ -28,13 +28,7 @@ const OutcomeOne = () => {
 
                     <div id="context-exigence-purpose"></div>
                 </div>
-                <div className="flex">
-                <p className="quote">
-                    <i>
-                "This book will help you think a little bit more clearly about what you’re choosing to  find  important in  life  and  what  you’re choosing  to  find unimportant. I  believe that  today  we’re  facing a  psychological epidemic, one  in which people no longer 
-                realize it’s okay for things to suck sometimes. I know that sounds intellectually lazy on the surface, but I promise you, it’s a life/death sort of issue."</i>
-                </p>
-                </div>
+
             </article>
         </div>
     )
