@@ -36,6 +36,14 @@ const OutcomeOne = () => {
                     </p>
                 </div>
             </article>
+            <div className="flex">
+                <div className="files">
+                    <h2>Files:</h2>
+                    <a href="">Major Paper One</a>
+                    <br />
+                    <a href="">Major Paper One Revision</a>
+                </div>
+            </div>
         </div>
     )
 }
