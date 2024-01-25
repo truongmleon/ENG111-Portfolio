@@ -1,3 +1,5 @@
+
+
 const OutcomeOne = () => {
     return (
         <div>
@@ -37,8 +39,8 @@ const OutcomeOne = () => {
                 </div>
             </article>
             <div className="flex">
-                <div className="files">
-                    <h2>Files:</h2>
+                <div className="files" id="files-one">
+                    <h2>Outcome One Files:</h2>
                     <a href="">Major Paper One</a>
                     <br />
                     <a href="">Major Paper One Revision</a>
