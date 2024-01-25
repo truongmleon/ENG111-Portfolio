@@ -39,7 +39,7 @@ const OutcomeThree = () => {
             </article>
             <article>
                 <div className="flex">
-                    <div data-aos="zoom-in" id="content-appeals"> 
+                    <div data-aos="zoom-in" id="content-more"> 
                     <h4 data-aos="fade-right" className="content-titles">Designing/organizing with respect to the demands of the genre, situation, audience, and purpose.</h4>
                         <p data-aos="fade-left" className="content-text">
                         When I was wrapping up my paper, it was a truly nice feeling knowing how fun my life is (mostly due to mobile devices). To a lot of people (and my desired audience), new devices and gimmicks feel “normal,” and they don’t stop to think about how much their phone has helped them to feel “normal” carrying it around. In my autobiography, I mentioned acronyms and abbreviations for text messaging. In non-formal contexts, it’s extremely efficient to use those terms. Likewise, and I haven’t mentioned this in my autobiography (I mention it very briefly in my Major Paper), but the concept of artificial intelligence (AI) suddenly feels “normal” after a few months. It’s natural for technology to go like that, but it would be interesting if acronym users and daily AI users stop to think about just how cool the idea is and how much it helped them. My purpose is to argue for a striking realization with personal examples throughout my life.

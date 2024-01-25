@@ -14,16 +14,19 @@
     font-family: 'Patua One', cursive;
     font-size: 2em;
     position: relative;
+    top: 40px;
     left: 100px;
     border-bottom: double 12px #000;
     width: 85%;
 }
 
-#content-arrangements, #content-diction, #content-devices, #content-appeals, #content-tone, #content-final {
+#content-arrangements, #content-diction, #content-devices, #content-appeals, #content-more, #content-tone, #content-final {
     width: 60%;
     border: double 9px #000;
     height: auto;
     box-shadow: 7px 8px 3px 1px rgba(70, 70, 70, 0.1);
+    position: relative;
+    top: 45px;
 }
 
 #content-arrangements {
@@ -38,10 +41,14 @@
     background-color: rgb(255, 240, 240);
 }
 
-#content-appeals {
-    position: relative;
+#content-appeals, #content-more {
     background-color: rgb(255, 255, 240);
+    position: relative;
     top: 45px;
+}
+
+#content-more {
+    top: 85px !important;
 }
 
 #content-tone {
@@ -49,7 +56,9 @@
 }
 
 #content-final {
+    position: relative;
     background-color: rgb(249, 240, 255);
+    top: 50px;
 }
 
 .content-titles {
@@ -58,6 +67,8 @@
     margin: 0;
     font-family: 'Patua One', cursive;
     border-bottom: solid 3px #000;
+    position: relative;
+    top: 0px !important;
 }
 
 .content-text {
