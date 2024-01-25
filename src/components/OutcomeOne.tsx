@@ -37,11 +37,11 @@ const OutcomeOne = () => {
                 </div>
             </article>
             <div className="flex">
-                <div className="files" id="files-one">
+                <div  data-aos="flip-right" className="files" id="files-one">
                     <h2>Outcome One Files:</h2>
-                    <a href="https://docs.google.com/document/d/1dFyj3GnftqChoMAxSPl3xXBHduskKSf_/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true"><u>Major Paper One</u></a>
+                    <a href="https://docs.google.com/document/d/1dFyj3GnftqChoMAxSPl3xXBHduskKSf_/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>Major Paper One</u></a>
                     <br />
-                    <a href="https://docs.google.com/document/d/15rr5u0Syr-gYsgqi-gGbnPg4cOAV-BqZ/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true"><u>Major Paper One Revision</u></a>
+                    <a href="https://docs.google.com/document/d/15rr5u0Syr-gYsgqi-gGbnPg4cOAV-BqZ/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>Major Paper One Revision</u></a>
                 </div>
             </div>
         </div>

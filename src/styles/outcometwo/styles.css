@@ -45,4 +45,9 @@
   left: 50px;
   font-size: 1.2em;
   overflow: hidden;
+}
+
+#files-two {
+  background-color: rgb(255, 255, 240);
+  top: 100px;
 }/*# sourceMappingURL=styles.css.map */

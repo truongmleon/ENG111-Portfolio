@@ -75,4 +75,9 @@
   margin: 0;
   font-size: 1.2em;
   font-family: "Poppins", sans-serif;
+}
+
+#files-three {
+  background-color: rgb(255, 240, 240);
+  top: 130px;
 }/*# sourceMappingURL=styles.css.map */

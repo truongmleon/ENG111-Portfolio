@@ -47,6 +47,14 @@ const OutcomeThree = () => {
                     </div>
                 </div>
             </article>
+            <div className="flex">
+                <div  data-aos="flip-right" className="files" id="files-three">
+                    <h2>Outcome Three Files:</h2>
+                    <a href="https://docs.google.com/document/d/1lvgvwMwKG3EBstUq_aHjM1jos3cLnd9j/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>Linguistic Autobiography (SA2)</u></a>
+                    <br />
+                    <a href="https://docs.google.com/document/d/17msAWSM4DDX1b_0vlYZ7Y0KqPf10FmV9/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>Linguistic Autobiography (SA2) Revision</u></a>
+                </div>
+            </div>
         </div>
     )
 }
