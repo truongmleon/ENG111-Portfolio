@@ -2,7 +2,7 @@ const OutcomeOne = () => {
     return (
         <div>
             <div className="flex">
-            <h2 data-aos="fade-down" id="outcome-one-title">Outcome One</h2>
+            <h2 data-aos="fade-down" id="outcome-one-title">OUTCOME ONE</h2>
             </div>
             <div id="outcome-one"></div>
             <article>

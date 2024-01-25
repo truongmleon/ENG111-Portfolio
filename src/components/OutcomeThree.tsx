@@ -4,7 +4,7 @@ const OutcomeThree = () => {
             <div id="outcome-three"></div>
             <h2 data-aos="zoom-out-up"  id="writing-header">OUTCOME THREE</h2>
             <article>
-            <h3 data-aos="zoom-in" className="analysis-header">Rhetorical Chooooooooices</h3>
+            <h3 data-aos="zoom-in" className="analysis-header">In an effective argument, it is crucial to develop and present different perspectives. Outcome Three is about considering perspectives and arguing for perspectives, using perspectives.</h3>
             <div className="flex">
                 <div data-aos="zoom-in" id="content-arrangements">
                 <h4 data-aos="fade-right" className="content-titles">Arrangement: Exemplification</h4>
