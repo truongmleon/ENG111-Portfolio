@@ -39,9 +39,9 @@ const OutcomeOne = () => {
             <div className="flex">
                 <div className="files" id="files-one">
                     <h2>Outcome One Files:</h2>
-                    <a href="/public/files/UWMajorPaper.docx"><u>Major Paper One</u></a>
+                    <a href="https://docs.google.com/document/d/1dFyj3GnftqChoMAxSPl3xXBHduskKSf_/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true"><u>Major Paper One</u></a>
                     <br />
-                    <a href="">Major Paper One Revision</a>
+                    <a href="https://docs.google.com/document/d/15rr5u0Syr-gYsgqi-gGbnPg4cOAV-BqZ/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true">Major Paper One Revision</a>
                 </div>
             </div>
         </div>
