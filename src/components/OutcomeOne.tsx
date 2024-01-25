@@ -1,4 +1,4 @@
-
+import mp from "/src/public/port/13thmeeting.pdf";
 
 const OutcomeOne = () => {
     return (
