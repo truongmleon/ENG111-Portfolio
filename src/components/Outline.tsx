@@ -26,7 +26,6 @@ const Outline = () => {
                 <div data-aos="fade-up"></div>
                 <div data-aos="fade-up"></div>
             </div>
-
                 <h3 data-aos="fade-up-right" className="headers" id="introduction">Introduction</h3>
                 <p data-aos="zoom-in-up">
                 I see myself becoming a better writer every year. As a sophomore, I looked back on my freshman writing and to realize I can write better now. As a junior, I looked back on the previous two years to realize I can write better now. As a senior, this is by best writing by far. So, I am pretty happy. 
