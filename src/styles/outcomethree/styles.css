@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 #writing-header {
   position: relative;
-  top: 200px;
+  top: 100px;
   text-align: center;
   font-family: "Rubik Mono One", cursive;
   font-size: 9em;
@@ -11,7 +11,7 @@
 
 .analysis-header {
   font-family: "Patua One", cursive;
-  font-size: 3em;
+  font-size: 2em;
   position: relative;
   left: 100px;
   border-bottom: double 12px #000;

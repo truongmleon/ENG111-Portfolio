@@ -19,7 +19,7 @@
   font-size: 2em;
   font-family: "Manrope", sans-serif;
   position: relative;
-  top: 70px;
+  top: 90px;
 }
 
 .subtlety-header {
@@ -27,7 +27,7 @@
   position: relative;
   width: 90%;
   left: 50px;
-  top: 70px;
+  top: 90px;
   font-size: 2em;
   border-bottom: 3px solid #000;
   overflow: hidden;
@@ -36,7 +36,7 @@
 .subtlety-text {
   font-family: "Montserrat", sans-serif;
   position: relative;
-  top: 50px;
+  top: 70px;
   width: 90%;
   left: 50px;
   font-size: 1.2em;
