@@ -1,3 +1,5 @@
+import mp from "src/files/UWMajorPaper.docx";
+
 const OutcomeOne = () => {
     return (
         <div>
