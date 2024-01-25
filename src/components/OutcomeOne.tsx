@@ -1,4 +1,4 @@
-import mp from "/src/files/UWMajorPaper.docx";
+import { majorPaper } from "../main";
 
 const OutcomeOne = () => {
     return (
@@ -41,7 +41,7 @@ const OutcomeOne = () => {
             <div className="flex">
                 <div className="files" id="files-one">
                     <h2>Outcome One Files:</h2>
-                    <a href={mp}><u>Major Paper One</u></a>
+                    <a href={majorPaper}><u>Major Paper One</u></a>
                     <br />
                     <a href="">Major Paper One Revision</a>
                 </div>

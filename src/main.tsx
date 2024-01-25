@@ -8,6 +8,10 @@ import OutcomeThree from './components/OutcomeThree';
 import OutcomeFour from './components/OutcomeFour';
 import { useState } from 'react';
 
+const majorPaper = require("/src/files/UWMajorPaper.docx");
+
+export { majorPaper };
+
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
     <Navbar />
