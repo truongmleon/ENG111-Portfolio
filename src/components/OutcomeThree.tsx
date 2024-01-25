@@ -7,17 +7,12 @@ const OutcomeThree = () => {
             <h3 data-aos="zoom-in" className="analysis-header">In an effective argument, it is crucial to develop and present different perspectives. Outcome Three is about considering perspectives and arguing for perspectives, using perspectives.</h3>
             <div className="flex">
                 <div data-aos="zoom-in" id="content-arrangements">
-                <h4 data-aos="fade-right" className="content-titles">Arrangement: Exemplification</h4>
+                <h4 data-aos="fade-right" className="content-titles">Considering, incorporating, and responding to different points of view while developing one’s own position.</h4>
                 <p data-aos="fade-left" className="content-text">
-                Anecdotes. They help make the text more appealing and interesting to read. Manson proves numerous anecdotes to put the audience into perspective. The way the exemplification is provided feels sophisticated and insightful, so the audience can take away crucial information efficiently.
-                He sets the stage by talking about Charles Bukowski, an alcoholic, a chronic gambler, a lout, and a poet. Bukowski wanted to be a writer, but his work was rejected by every journal and newspaper. It was said his work was terrible. Horrid. Boorish. Disgusting. Drinking alcohol was his way of coping after rejection after rejection. An editor showed curiosity to Bukowski and gave him a chance to publish his first novel, <i>Post Office</i>. He went on and published hundreds of poems and six novels. Bukowski didn't care about his success. He was still drinking after drinking, gambling away. Bukowski knew he was a loser and wholeheartedly accepted it as he didn’t try to change because he didn't care.
+                In my autobiography, I wanted to talk about my ideas psychologically with respect to social life. I talked about how the internet impacted Englishes in different contexts by recreating perspectives with my closest friends and the general web. I also understood and accounted consequences for my language (for slur usage) and arguments to make it personal (it is an autobiography, after all).
                 <br />
                 <br />
-                <i>"He never tried to be anything other than what he was. The genius in
-                    Bukowski’s work was not in overcoming unbelievable odds or developing
-                    himself into a shining literary light. It was the opposite. It was his simple
-                    ability to be completely, unflinchingly honest with himself—especially the
-                    worst parts of himself—and to share his failings without hesitation or doubt."</i>
+                I incorporated my own understanding of conformity and individually by providing specific examples of a friend’s philosophical discussion and a school project. Along with dialogue and descriptions, I reflected on the events to add my present perspective and thought. As teenagers often feel the need to get along with others, I responded by suggesting that trying to fit in and following trends you don’t like wastes time from learning in life as learning is truly amplified from not caring, especially in an internet-driven world. I considered that some people may struggle to make friends and wish to put forth effort into caring about creating friendships the most.
                 </p>
                 </div>
             </div>
