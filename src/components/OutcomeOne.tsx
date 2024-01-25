@@ -39,7 +39,7 @@ const OutcomeOne = () => {
             <div className="flex">
                 <div className="files" id="files-one">
                     <h2>Outcome One Files:</h2>
-                    <a href="/src/files/UWMajorPaper.docx" target="_blank"><u>Major Paper One</u></a>
+                    <a href="/src/files/UWMajorPaper.docx"><u>Major Paper One</u></a>
                     <br />
                     <a href="">Major Paper One Revision</a>
                 </div>
