@@ -20,15 +20,9 @@ const OutcomeThree = () => {
             <br />
             <div className="flex">
                 <div data-aos="zoom-in" id="content-devices">
-                <h4 data-aos="fade-right" className="content-titles">Devices: Aphorism</h4>
+                <h4 data-aos="fade-right" className="content-titles">Engaging in analysis—the close scrutiny and examination of evidence, claims, and assumptions—to explore and support a line of inquiry.</h4>
                 <p data-aos="fade-left" className="content-text">
-                Throughout Manson’s book, he utilizes a large magnitude of aphorisms. After all, this is a self-improvement book designed for improving one’s life. An example is when Manson talked about how people felt “right” doing terrible things. Most people likely don’t realize or understand the “why” people do what they do. This says quite a lot about the perspectives of others and on the flip side, what other people might think about them since it's helpful to get an idea of every perspective.
-                <br />
-                <br />
-                <i>"For individuals to feel justified in doing horrible things to other people,
-                    they must feel an unwavering certainty in their own righteousness, in their
-                    own beliefs and deservedness. Racists do racist things because they’re certain
-                    about their genetic superiority."</i>
+                The idea that it all comes down to the modern-day internet didn’t really occur to me until I finished my body paragraphs of my autobiography. Well, of course growing up in 21st century would mean that my life would be supported by technology. As I grew up playing games and texting friends through an iPad, it felt natural to me; I didn’t really think about until I reached crafting a conclusion. I reflected on each my claims and noticed that my examples would be more difficult to occur. For instance, I question or assume that working in group projects without Discord or email would be hard unless you live very close to your groupmate’s house. And also, the amazing jokes about being a communist would happen less often. The talk of virtual learning, efficient one-to-one communication, and the idea that information can be widespread is evidence for how technology changed our behaviors and habits. I wake up checking Discord to talk with friends and popping up Canvas to see what I have to do for the day.
                 </p>
                 </div>
             </div>
@@ -36,19 +30,22 @@ const OutcomeThree = () => {
             <br />
             <div className="flex">
                 <div data-aos="zoom-in" id="content-diction">
-                <h4 data-aos="fade-right" className="content-titles">Diction: Colloquial</h4>
+                <h4 data-aos="fade-right" className="content-titles">Understanding and accounting for the stakes and consequences of various arguments for diverse audiences within ongoing conversations and contexts.</h4>
                 <p data-aos="fade-left" className="content-text">
-                The language Manson portrays is not formal and is easily understood by most people. Writing comprehension allows for a boarder audience as many people have difficulties choosing what problem is beneficial for their improvement. His writing is fluid and creative to prevent boredom within the audience with a lower possibility of misunderstanding the text. Creativity allows people to feel more upbeat - it feels more personal like talking to a close friend.
-                <br />
-                <br />
-                <i>
-                "Imagine that somebody puts a gun to your head and tells you that you have
-                to run 26.2 miles in under five hours, or else he’ll kill you and your entire
-                family. That would suck."
-                </i>
+                In a particular part of my autobiography, I talked about some side effects of social media. Something that's used for playful communication can for creating disturbances. There’s a lot to say about what is right and wrong for the vocabulary and the actions we use. I understood the consequence of the internet being more of a threat than a tool by talking about my friend group’s communist English and Chink English. I realize that when I use language that appears wrong, you may be judged or generalized. And I’m fine with that; the joy I have with my friends outweighs that to a large magnitude. The autobiography simply feels more personal when I talk about issues I’ve faced as well as relatable to some audiences. I accounted the stakes of my autobiography by creating a crucial realization about our current lives. It’s obvious our lives are different compared to a century ago, but something I feel like people (mostly young people like Generation Z) fail to notice is just how integrated and beautiful technology is.
                 </p>
                 </div>
             </div>
+            </article>
+            <article>
+                <div className="flex">
+                    <div data-aos="zoom-in" id="content-appeals"> 
+                    <h4 data-aos="fade-right" className="content-titles">Designing/organizing with respect to the demands of the genre, situation, audience, and purpose.</h4>
+                        <p data-aos="fade-left" className="content-text">
+                        When I was wrapping up my paper, it was a truly nice feeling knowing how fun my life is (mostly due to mobile devices). To a lot of people (and my desired audience), new devices and gimmicks feel “normal,” and they don’t stop to think about how much their phone has helped them to feel “normal” carrying it around. In my autobiography, I mentioned acronyms and abbreviations for text messaging. In non-formal contexts, it’s extremely efficient to use those terms. Likewise, and I haven’t mentioned this in my autobiography (I mention it very briefly in my Major Paper), but the concept of artificial intelligence (AI) suddenly feels “normal” after a few months. It’s natural for technology to go like that, but it would be interesting if acronym users and daily AI users stop to think about just how cool the idea is and how much it helped them. My purpose is to argue for a striking realization with personal examples throughout my life.
+                        </p>    
+                    </div>
+                </div>
             </article>
         </div>
     )

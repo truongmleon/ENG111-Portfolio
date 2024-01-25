@@ -38,7 +38,9 @@
 }
 
 #content-appeals {
+  position: relative;
   background-color: rgb(255, 255, 240);
+  top: 45px;
 }
 
 #content-tone {
