@@ -1,0 +1,10 @@
+{
+    "builds": [
+      { "src": "src/**", "use": "@vercel/node" }
+    ],
+    "routes": [
+      { "src": "/src/files/(.*)", "dest": "/src/files/$1" }
+    ],
+    "assetsInclude": ["**/*.docx"]
+  }
+  
