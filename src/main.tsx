@@ -5,7 +5,7 @@ import Outline from './components/Outline';
 import OutcomeOne from './components/OutcomeOne';
 import OutcomeTwo from './components/OutcomeTwo';
 import OutcomeThree from './components/OutcomeThree';
-import References from './components/References';
+import OutcomeFour from './components/OutcomeFour';
 import { useState } from 'react';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
@@ -15,6 +15,6 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <OutcomeOne />
     <OutcomeTwo />
     <OutcomeThree />
-    <References />
+    <OutcomeFour />
   </React.StrictMode>
 );

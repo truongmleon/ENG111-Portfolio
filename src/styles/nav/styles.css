@@ -111,4 +111,8 @@ a {
 
 a:focus {
   outline: none;
+}
+
+#introduction {
+  font-family: "Fredoka One", cursive;
 }/*# sourceMappingURL=styles.css.map */

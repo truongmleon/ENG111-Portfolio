@@ -14,12 +14,16 @@
   top: 230px;
 }
 
-#lead-in {
+.lead-in {
   text-align: center;
   font-size: 2em;
   font-family: "Manrope", sans-serif;
   position: relative;
   top: 90px;
+}
+
+#four {
+  top: 0px !important;
 }
 
 .subtlety-header {
