@@ -46,11 +46,7 @@ const OutcomeFour = () => {
             <div className="flex">
                 <div  data-aos="flip-left" className="files" id="files-four">
                     <h2>Outcome Four Files:</h2>
-                    <a href="https://docs.google.com/document/d/1UHqfB8AsUiXjm6Y4OwIVGS8gnwamAXDi/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>October College Essay</u></a>
-                    <br />
-                    <a href="https://docs.google.com/document/d/18pRNBPUTDYNNigwPbinzLdrbTW5ljfcM/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>Late October College Essay</u></a>
-                    <br />
-                    <a href="https://docs.google.com/document/d/1WJiPbp9kQ2sbsA-dHUW8TwDwMbU16ppJ/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>November College Essay (sent to UW)</u></a>
+                    <a href="https://docs.google.com/document/d/1UHqfB8AsUiXjm6Y4OwIVGS8gnwamAXDi/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>Sudden Fiction</u></a>
                 </div>
             </div>
         </div>
