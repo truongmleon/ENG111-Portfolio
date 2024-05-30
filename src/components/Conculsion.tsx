@@ -7,22 +7,19 @@ const Conclusion = () => {
             <article>
                 <div className="flex">
                     <p data-aos="fade-right" id='context-end'>
-                    So this is the end of my first course in English this year. I only have one more English class in a high school setting before I move on. While I may not take many English classes at university, I realize that my writing is decent from the courses I’ve taken in high school. 
+                    So this is the end of my second-to-last course in English in forever. During the summer, I will take a technical writing class at Green River. While I will no longer take any English classes as I’m at UW, I realize that my writing is decent from the courses I’ve taken.
                     <br />
                     <br />
-                    Despite writing last minute and getting buried from Green River work, I made sure I enjoyed the process of writing and write using my inner voice. Despite the course occurring for just a semester, it felt like my writing progressed for over a year. 
+                    Despite writing last minute and getting buried from Green River work, I made sure I enjoyed the process of writing and write using my inner voice. Despite the course occurring for just a semester, it felt like my writing progressed for over two years from ENG131 and ENG111. 
                     <br />
                     <br />
-                    I hope to see this similar outcome in ENG111. Who knows if I’ll enjoy a literature class. I do enjoy reading manga, though. And it should be a fun class if I ever want to study game development. 
+                    On the technical side, I’ve noticed that many people in the STEM field fail to communicate effectively; I’m going to make sure to use what I learned in this class to argue efficiently and think creatively for why my physics approach works or why my code has a better time complexity or space complexity.
                     <br />
                     <br />
-                    On the technical side, I’ve noticed that many people in the STEM field fail to communicate effectively; I’m going to make sure to use what I learned in this class to argue efficiently for why my physics approach works or why my code has a better time complexity.
+                    I didn’t think I would succeed this well. I’d say the passion for learning is the biggest contributor, from learning how to code to now. I learned that writing was flexible in ENG131, and now I learned how to make my writing “more fun” in ENG111.
                     <br />
                     <br />
-                    I didn’t think I would succeed this well. I’d say the passion for learning is the biggest contributor, from learning how to code to now. For some reason, I was never really taught that writing was supposed to be flexible. I think it’s crazy how it took 12 years of formal education for that realization.
-                    <br />
-                    <br />
-                    I only got a few more months with Mr. Harp and Mr. Lynch. Excited to see what comes <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&pp=ygURcmljayByb2xsIG5vdCBhZHM%3D" target="_blank" id="rick">next</a>.
+                    It’s crazy how I only have one more English class left. The end is already here. For some people, math ends earlier than English. Something tells me that I’ll recognize how math is just like English when I construct proofs at UW.
                     </p>
                 </div>
             </article>
