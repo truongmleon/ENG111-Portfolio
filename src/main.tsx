@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import Navbar from './components/Navbar';
 import Outline from './components/Outline';
 import OutcomeOne from './components/OutcomeOne';
-import OutcomeFour from './components/OutcomeFour';
+import OutcomeThree from './components/OutcomeThree';
 import Conclusion from './components/Conculsion';
 import { useState } from 'react';
 
@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <Navbar />
     <Outline />
     <OutcomeOne />
-    <OutcomeFour />
+    <OutcomeThree />
     <Conclusion />  
   </React.StrictMode>
 );
