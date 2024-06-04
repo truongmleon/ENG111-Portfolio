@@ -1,14 +1,8 @@
 const Outline = () => {
     return (
-<<<<<<< HEAD
         <div  id='portfolio-analysis'>
         <h1  id='portfolio-title'>UW ENG111 WRITING PORTFOLIO</h1>
         <h2  id='portfolio-author'>Leon Truong</h2>
-=======
-        <div data-aos="fade-down" id='portfolio-analysis'>
-        <h1 data-aos="fade-down" id='portfolio-title'>UW ENG131 WRITING PORTFOLIO</h1>
-        <h2 data-aos="fade-down" id='portfolio-author'>Leon Truong</h2>
->>>>>>> parent of 3589fbf (eng111 transition)
         <div className="flex"></div>
         <article id="introduction">
             <section className="section-analysis">
