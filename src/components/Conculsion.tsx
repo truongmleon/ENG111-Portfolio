@@ -23,6 +23,30 @@ const Conclusion = () => {
                     </p>
                 </div>
             </article>
+            <div className="flex">
+                <div  data-aos="flip-right" className="files" id="full">
+                    <h2>My Writing Compendium:</h2>
+                    <a href="https://docs.google.com/document/d/1wFLCGOWyHFcYGPeYrZ7_SW0W6weP7NC_/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>Wallace Rhetorical Analysis (SA1)</u></a>
+                    <br />
+                    <a href="https://docs.google.com/document/d/1lvgvwMwKG3EBstUq_aHjM1jos3cLnd9j/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>Linguistic Autobiography (SA2)</u></a>
+                    <br />
+                    <a href="https://docs.google.com/document/d/17msAWSM4DDX1b_0vlYZ7Y0KqPf10FmV9/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>Linguistic Autobiography (SA2) Revision</u></a>
+                    <br />
+                    <a href="https://docs.google.com/document/d/1RRJ2nxOTRZ28SLEYvowE2AeUa2y0E9AR/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>One Page Expansion (SA3)</u></a>
+                    <br />
+                    <a href="https://docs.google.com/document/d/1_z4wxmfKcCZBwAyik2sy2CoQ4nq393Re/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>Side-Shadowing (SA4)</u></a>
+                    <br />
+                    <a href="https://docs.google.com/document/d/1dFyj3GnftqChoMAxSPl3xXBHduskKSf_/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>Major Paper One</u></a>
+                    <br />
+                    <a href="https://docs.google.com/document/d/15rr5u0Syr-gYsgqi-gGbnPg4cOAV-BqZ/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>Major Paper One Revision</u></a>
+                    <br />
+                    <a href="https://docs.google.com/document/d/1UHqfB8AsUiXjm6Y4OwIVGS8gnwamAXDi/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>October College Essay</u></a>
+                    <br />
+                    <a href="https://docs.google.com/document/d/18pRNBPUTDYNNigwPbinzLdrbTW5ljfcM/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>Late October College Essay</u></a>
+                    <br />
+                    <a href="https://docs.google.com/document/d/1WJiPbp9kQ2sbsA-dHUW8TwDwMbU16ppJ/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>November College Essay (sent to UW)</u></a>
+                </div>
+            </div>
         </div>
     )
 }
