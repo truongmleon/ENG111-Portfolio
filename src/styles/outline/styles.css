@@ -15,6 +15,7 @@ body, html {
 
 body {
   height: 8800px;
+  overflow-y: hidden;
 }
 
 img {
@@ -62,7 +63,6 @@ img {
   position: relative;
   top: 80px;
   width: 100%;
-  margin: 0;
   padding: 0;
 }
 

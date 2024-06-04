@@ -2,12 +2,12 @@ const OutcomeOne = () => {
     return (
         <div>
             <div className="flex">
-            <h2 data-aos="fade-down" id="outcome-one-title">OUTCOME ONE</h2>
+            <h2  id="outcome-one-title">OUTCOME FOUR</h2>
             </div>
-            <div id="outcome-one"></div>
+            <div id="outcome-four"></div>
             <article>
                 <div className="flex">
-                    <p data-aos="fade-right" id='context'>
+                    <p  id='context'>
                     A well-rounded argument should be arguable and diverse. Outcome One is about writing effectively to be arguable.
                     <br />
                     <br />
@@ -37,7 +37,7 @@ const OutcomeOne = () => {
                 </div>
             </article>
             <div className="flex">
-                <div  data-aos="flip-right" className="files" id="files-one">
+                <div   className="files" id="files-one">
                     <h2>Outcome One Files:</h2>
                     <a href="https://docs.google.com/document/d/1dFyj3GnftqChoMAxSPl3xXBHduskKSf_/edit?usp=sharing&ouid=106026977449000290911&rtpof=true&sd=true" target="_blank"><u>Major Paper One</u></a>
                     <br />

@@ -11,8 +11,8 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
     <Navbar />
     <Outline />
-    <OutcomeOne />
     <OutcomeThree />
+    <OutcomeOne />
     <Conclusion />  
   </React.StrictMode>
 );
